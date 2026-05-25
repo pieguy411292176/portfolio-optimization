@@ -6,6 +6,9 @@ classic mean variance optimization
 
 extensions
 2 - minimum variance trade
+
 3 - benchmark tracking
+
 4 - risk budgeting
+
 5 - 
